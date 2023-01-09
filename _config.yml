@@ -23,10 +23,10 @@ author: PumainThailand
 # path: assets\img\clients\creative-market.jpg
 # height: 60 #height in px, defaults to 52px
 
-title: Большой FAQ по Бангкоку Таиланде
+title: Электронки, вейпы, одноразки, кальяны, табак, сигареты, снюс, жижки в Тайланде
 email: pumainthailand.com@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Всё то что вы бы хотели знать о Бангкоке, ваш личный путеводитель
+  Всё то что вы бы хотели знать об электронках, вейпах, одноразках, кальянах, табаке, сигаретах, снюсе, жижках в Тайланде
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vipthai.ru/" # the base hostname & protocol for your site, e.g. http://example.com
 
