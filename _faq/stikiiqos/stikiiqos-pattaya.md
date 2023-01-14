@@ -1,7 +1,7 @@
 ---
 question: Купить стики для айкос на Паттайе
 ldjson: yes
-hashtag: stiki-pattaya
+hashtag: stikiiqos-pattaya
 ---
 
 **Дешево** доставка с бангкока 1-2 дня [https://hqdthai.ru/stiki/](https://hqdthai.ru/stiki/) <- Цены и наличие и оформление заказа.
