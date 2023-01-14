@@ -1,7 +1,7 @@
 ---
 question: Купить стики для iqos на Панган
 ldjson: yes
-hashtag: iqos-phangan
+hashtag: stikiiqos-phangan
 ---
 
 **Дешево** доставка с бангкока 1-2 дня [https://hqdthai.ru/stiki/](https://hqdthai.ru/stiki/) <- Цены и наличие и оформление заказа.
