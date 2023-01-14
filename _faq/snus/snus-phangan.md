@@ -12,4 +12,4 @@ hashtag: snus-phangan
 
 **Принимаем так же оплату с карт РФ, Беларуси, Украины и Казахстана.**
 
-Прочитать полные условия -> [https://thaihookahfaq.ru/#phangan-stiki](https://thaihookahfaq.ru/#phangan-stiki)
+Прочитать полные условия -> [https://thaihookahfaq.ru/#phangan-snus](https://thaihookahfaq.ru/#phangan-snus)
