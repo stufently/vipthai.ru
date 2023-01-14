@@ -12,4 +12,4 @@ hashtag: kalyan-samui
 
 **Принимаем так же оплату с карт РФ, Беларуси, Украины и Казахстана.**
 
-Прочитать полные условия -> [https://thaihookahfaq.ru/#h#hookahsamui](https://thaihookahfaq.ru/#hookahsamui)
+Прочитать полные условия -> [https://thaihookahfaq.ru/#hookahsamui](https://thaihookahfaq.ru/#hookahsamui)
