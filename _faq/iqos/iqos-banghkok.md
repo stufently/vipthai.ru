@@ -1,5 +1,5 @@
 ---
-question: Купить устройство айкос в Бангкоке
+question: Купить устройство iqos в Бангкоке
 ldjson: yes
 hashtag:  iqos-banghkok
 ---
