@@ -6,7 +6,7 @@ hashtag: esig-phuket
 
 **Дешево** доставка с бангкока 1-2 дня [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/) <- Цены и наличие и оформление заказа.
 
-**Сегодня** дороже доставка и самовывоз на Пхукете **с оплатой наличными при получении** с пхукетского склада [https://hqdphuket.ru/Elektronki](https://hqdphuket.ru/Elektronki)<- Цены, наличие и оформление заказа.
+**Сегодня** дороже доставка и самовывоз на Пхукете **с оплатой наличными при получении** со склада Пхукета [https://hqdphuket.ru/Elektronki](https://hqdphuket.ru/Elektronki)<- Цены, наличие и оформление заказа.
 
 Удобнее, но дороже **оформить заказ в телеграм** [https://thaihookahfaq.ru/#manager](https://thaihookahfaq.ru/#manager)
 
