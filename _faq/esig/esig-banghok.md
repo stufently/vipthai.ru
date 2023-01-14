@@ -13,4 +13,4 @@ hashtag: esig-banghok
 
 **Принимаем так же оплату с карт РФ, Беларуси, Украины и Казахстана.**
 
-Прочитать полные условия -> [https://thaihookahfaq.ru/#delivery](https://thaihookahfaq.ru/#delivery)
+Прочитать полные условия -> [https://thaihookahfaq.ru/#bangkok-esiggarets](https://thaihookahfaq.ru/#bangkok-esiggarets)
