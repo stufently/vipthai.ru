@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: tabac-banghkok
 ---
 
-**Дешево** доставка с бангкока 1-2 дня [https://hqdthai.ru/tabak/](https://hqdthai.ru/tabak/) <- Цены, наличие и оформление заказа.
+**Дешево** доставка с бангкока день в день [https://hqdthai.ru/tabak/](https://hqdthai.ru/tabak/) <- Цены, наличие и оформление заказа.
 
 **Сегодня** дороже доставка и самовывоз с Бангкока **с оплатой наличными при получении** склада Оннут [https://hqdthai.ru/tabak/](https://hqdthai.ru/tabak/)<- Цены, наличие и оформление заказа.
 
