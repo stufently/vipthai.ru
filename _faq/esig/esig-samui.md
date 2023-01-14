@@ -6,7 +6,7 @@ hashtag: esig-samui
 
 **Дешево** доставка с бангкока 1-2 дня [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/) <- Цены и наличие и оформление заказа.
 
-**Сегодня** дороже доставка и самовывоз на Самуи **с оплатой наличными при получении** со склада Ламаи [https://hqdsamui.ru/electronki/](https://hqdsamui.ru/electronki/)<- Цены, наличие и оформление заказа.
+**Сегодня** дороже доставка и самовывоз с Ламай **с оплатой наличными при получении** со склада Самуи [https://hqdsamui.ru/electronki/](https://hqdsamui.ru/electronki/)<- Цены, наличие и оформление заказа.
 
 Удобнее, но дороже **оформить заказ в телеграм** [https://thaihookahfaq.ru/#manager](https://thaihookahfaq.ru/#manager)
 
