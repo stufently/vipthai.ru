@@ -1,5 +1,5 @@
 ---
-question: Купить устройство айкос на Пхукете
+question: Купить устройство iqos на Пхукете
 ldjson: yes
 hashtag:  iqos-phuket
 ---
