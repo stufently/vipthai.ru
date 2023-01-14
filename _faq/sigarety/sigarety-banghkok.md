@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: sigarety-banghkok
 ---
 
-**Сегодня** доставка и самовывоз с Оннута с оплатой наличными при получении со склада Бангкока [https://hqdthai.ru/electronki](https://hqdthai.ru/electronki)<- Цены, наличие и оформление заказа.
+**Сегодня** доставка и самовывоз с Оннута с оплатой наличными при получении со склада Бангкока [https://hqdthai.ru/sigarety/](https://hqdthai.ru/sigarety/)<- Цены, наличие и оформление заказа.
 
 Удобнее, но дороже **оформить заказ в телеграм** [https://thaihookahfaq.ru/#manager](https://thaihookahfaq.ru/#manager)
 
