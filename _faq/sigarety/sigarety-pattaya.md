@@ -1,5 +1,5 @@
 ---
-question: Купить сигареты на Паттайе
+question: Купить сигареты в Паттайе
 ldjson: yes
 hashtag: sigarety-pattaya
 ---
