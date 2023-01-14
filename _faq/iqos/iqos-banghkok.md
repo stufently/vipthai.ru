@@ -4,9 +4,7 @@ ldjson: yes
 hashtag:  iqos-banghkok
 ---
 
-**Дешево** доставка с бангкока день в день [https://hqdthai.ru/iqos/](https://hqdthai.ru/iqos/) <- Цены, наличие и оформление заказа.
-
-**Сегодня** дороже доставка и самовывоз с Бангкока **с оплатой наличными при получении** склада Оннут [https://hqdthai.ru/iqos/](https://hqdthai.ru/iqos/)<- Цены, наличие и оформление заказа.
+**Сегодня** доставка и самовывоз с Оннута с оплатой наличными при получении со склада Бангкока [https://hqdthai.ru/electronki](https://hqdthai.ru/electronki)<- Цены, наличие и оформление заказа.
 
 Удобнее, но дороже **оформить заказ в телеграм** [https://thaihookahfaq.ru/#manager](https://thaihookahfaq.ru/#manager)
 
