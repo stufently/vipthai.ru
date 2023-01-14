@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: tabac-samui
 ---
 
-**Дешево** доставка с бангкока 1-2 дня [[https://hqdthai.ru/kalyan/kalyany/](https://hqdthai.ru/tabak/)]([https://hqdthai.ru/kalyan/kalyany/](https://hqdthai.ru/tabak/)) <- Цены, наличие и оформление заказа.
+**Дешево** доставка с бангкока 1-2 дня [https://hqdthai.ru/tabak/](https://hqdthai.ru/tabak/) <- Цены, наличие и оформление заказа.
 
 **Сегодня** дороже доставка и самовывоз на Ламай **с оплатой наличными при получении** склада Самуи [https://hqdsamui.ru/tabaco/](https://hqdsamui.ru/tabaco/)<- Цены, наличие и оформление заказа.
 
