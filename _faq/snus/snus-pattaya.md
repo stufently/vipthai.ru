@@ -1,5 +1,5 @@
 ---
-question: Купить жевательный табак снюс, snus на Паттайе
+question: Купить жевательный табак снюс, snus в Паттайе
 ldjson: yes
 hashtag: snus-pattaya
 ---
