@@ -8,7 +8,7 @@ hashtag: esig-phuket
 
 **Сегодня** дороже доставка и самовывоз на Пхукете **с оплатой наличными при получении** с пхукетского склада [https://hqdphuket.ru/Elektronki](https://hqdphuket.ru/Elektronki)<- Цены, наличие и оформление заказа.
 
-Оформление через менеджера в телеграм подороже [https://thaihookahfaq.ru/#manager](https://thaihookahfaq.ru/#manager)
+Удобнее, но дороже **оформить заказ в телеграм** [https://thaihookahfaq.ru/#manager](https://thaihookahfaq.ru/#manager)
 
 **Принимаем так же оплату с карт РФ, Беларуси, Украины и Казахстана.**
 
