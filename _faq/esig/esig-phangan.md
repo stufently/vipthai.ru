@@ -12,4 +12,4 @@ hashtag: esig-phangan
 
 **Принимаем так же оплату с карт РФ, Беларуси, Украины и Казахстана.**
 
-Прочитать полные условия -> [https://thaihookahfaq.ru/#samui-delivery](https://thaihookahfaq.ru/#samui-delivery)
+Прочитать полные условия -> [https://thaihookahfaq.ru/#phangan-esiggarets](https://thaihookahfaq.ru/#phangan-esiggarets)
