@@ -1,5 +1,5 @@
 ---
-question: Купить стики для iqos на Паттайе
+question: Купить стики для iqos в Паттайе
 ldjson: yes
 hashtag: stikiiqos-pattaya
 ---
