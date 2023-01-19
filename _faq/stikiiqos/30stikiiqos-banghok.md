@@ -1,5 +1,5 @@
 ---
-question: Купить стики для iqos в Бангкоке
+question: Купить стики айкос хитс iqos heets в Бангкоке
 ldjson: yes
 hashtag: stikiiqos-banghok
 ---
