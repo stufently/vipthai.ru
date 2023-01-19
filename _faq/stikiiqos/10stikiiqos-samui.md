@@ -1,5 +1,5 @@
 ---
-question: Купить стики для iqos на Самуи
+question: Купить стики айкос хитс iqos heets на Самуи
 ldjson: yes
 hashtag: stikiiqos-samui
 ---
