@@ -1,5 +1,5 @@
 ---
-question: Купить стики айкос хитс - iqos heets на Пхукете
+question: Купить стики айкос хитс iqos heets на Пхукете
 ldjson: yes
 hashtag: stikiiqos-phuket
 ---
