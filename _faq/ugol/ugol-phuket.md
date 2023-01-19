@@ -1,5 +1,5 @@
 ---
-question: Купить уголь для кальянаа на Пхукете
+question: Купить уголь для кальяна на Пхукете
 ldjson: yes
 hashtag: ugol-phuket
 ---
