@@ -1,5 +1,5 @@
 ---
-question: Купить стики для iqos на Панган
+question: Купить стики айкос хитс iqos heets на Панган
 ldjson: yes
 hashtag: stikiiqos-phangan
 ---
