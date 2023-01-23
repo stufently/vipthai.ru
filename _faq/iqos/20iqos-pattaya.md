@@ -1,5 +1,5 @@
 ---
-question: Купить устройство iqos в Паттайе
+question: Купить устройство iqos айкос в Паттайе
 ldjson: yes
 hashtag: iqos-pattaya
 ---
