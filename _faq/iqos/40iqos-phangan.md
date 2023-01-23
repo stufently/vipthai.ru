@@ -1,5 +1,5 @@
 ---
-question: Купить устройство iqos на Пангане
+question: Купить устройство айкос iqos на Пангане
 ldjson: yes
 hashtag: iqos-phangan
 ---
