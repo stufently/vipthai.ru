@@ -1,5 +1,5 @@
 ---
-question: Купить устройство iqos айкос на Самуи
+question: Купить устройство айкос iqos на Самуи
 ldjson: yes
 hashtag: iqos-samui
 ---
