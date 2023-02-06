@@ -4,9 +4,9 @@ ldjson: yes
 hashtag: esig-samui
 ---
 
-**Дешево** доставка с бангкока 1-2 дня [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/) <- Цены и наличие и оформление заказа.
+{{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/) <- Цены и наличие и оформление заказа.
 
-**Сегодня** дороже доставка и самовывоз с Ламай **с оплатой наличными при получении** со склада Самуи [https://hqdsamui.ru/electronki/](https://hqdsamui.ru/electronki/)<- Цены, наличие и оформление заказа.
+{{ site.data.common.info_delivery_2 }} с Ламай **с оплатой наличными при получении** со склада Самуи [https://hqdsamui.ru/electronki/](https://hqdsamui.ru/electronki/)<- Цены, наличие и оформление заказа.
 
 Удобнее, но дороже **оформить заказ в телеграм** [https://thaihookahfaq.ru/#manager](https://thaihookahfaq.ru/#manager)
 

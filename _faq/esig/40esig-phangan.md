@@ -4,9 +4,9 @@ ldjson: yes
 hashtag: esig-phangan
 ---
 
-**Дешево** доставка с бангкока 1-2 дня [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/) <- Цены и наличие и оформление заказа.
+{{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/) <- Цены и наличие и оформление заказа.
 
-**Сегодня** дороже доставка и самовывоз с Тонгсала **с оплатой наличными при получении** со склада Панган [https://iqos-hqd-phangan.ru/electronki](https://iqos-hqd-phangan.ru/electronki)<- Цены, наличие и оформление заказа.
+{{ site.data.common.info_delivery_2 }} с Тонгсала **с оплатой наличными при получении** со склада Панган [https://iqos-hqd-phangan.ru/electronki](https://iqos-hqd-phangan.ru/electronki)<- Цены, наличие и оформление заказа.
 
 Удобнее, но дороже **оформить заказ в телеграм** [https://thaihookahfaq.ru/#manager](https://thaihookahfaq.ru/#manager)
 

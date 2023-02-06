@@ -4,9 +4,9 @@ ldjson: yes
 hashtag: stikiiqos-phuket
 ---
 
-**Дешево** доставка с бангкока 1-2 дня [https://hqdthai.ru/stiki/](https://hqdthai.ru/stiki/) <- Цены, наличие и оформление заказа.
+{{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/stiki/](https://hqdthai.ru/stiki/) <- Цены, наличие и оформление заказа.
 
-**Сегодня** дороже доставка и самовывоз на Паттонге **с оплатой наличными при получении** со склада Пхукета [https://hqdphuket.ru/stiki/iqosstiki](https://hqdphuket.ru/stiki/iqosstiki)<- Цены, наличие и оформление заказа.
+{{ site.data.common.info_delivery_2 }} на Паттонге **с оплатой наличными при получении** со склада Пхукета [https://hqdphuket.ru/stiki/iqosstiki](https://hqdphuket.ru/stiki/iqosstiki)<- Цены, наличие и оформление заказа.
 
 Удобнее, но дороже **оформить заказ в телеграм** [https://thaihookahfaq.ru/#manager](https://thaihookahfaq.ru/#manager)
 
