@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: sigarety-samui
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/sigarety/](https://hqdthai.ru/sigarety/) <- Цены и наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} с Ламай **с оплатой наличными при получении** со склада Самуи [https://hqdsamui.ru/sigar/](https://hqdsamui.ru/sigar/)<- Цены, наличие и оформление заказа.

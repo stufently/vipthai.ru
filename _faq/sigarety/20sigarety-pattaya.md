@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: sigarety-pattaya
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/sigarety/](https://hqdthai.ru/sigarety/) <- Цены, наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} сПратамнак **с оплатой наличными при получении** склад в Паттайе [https://hqd-iqos-pattaya.ru/sigar](https://hqd-iqos-pattaya.ru/sigar)<- Цены, наличие и оформление заказа.

@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: kalyan-pattaya
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/kalyan/kalyany/](https://hqdthai.ru/kalyan/kalyany/) <- Цены, наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} с Пратамнак **с оплатой наличными при получении** склада Паттаи [https://hqd-iqos-pattaya.ru/kalyan](https://hqd-iqos-pattaya.ru/kalyan)<- Цены, наличие и оформление заказа.

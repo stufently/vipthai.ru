@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: stikiiqos-samui
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/stiki/](https://hqdthai.ru/stiki/) <- Цены и наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} с Ламай **с оплатой наличными при получении** со склада Самуи [https://hqdsamui.ru/stiki-iqos/](https://hqdsamui.ru/stiki-iqos/)<- Цены, наличие и оформление заказа.

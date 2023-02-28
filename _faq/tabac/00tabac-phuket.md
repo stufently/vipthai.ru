@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: tabac-phuket
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/tabak/](https://hqdthai.ru/tabak/) <- Цены, наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} на Паттонге **с оплатой наличными при получении** со склада Пхукета [https://hqdphuket.ru/tabak](https://hqdphuket.ru/tabak)<- Цены, наличие и оформление заказа.

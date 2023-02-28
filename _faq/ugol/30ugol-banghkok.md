@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: ugol-banghkok
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 **Сегодня** доставка и самовывоз с Оннута с оплатой наличными при получении со склада Бангкока [https://hqdthai.ru/kalyan/ugolkalyan/](https://hqdthai.ru/kalyan/ugolkalyan/)<- Цены, наличие и оформление заказа.
 
 Удобнее, но дороже **оформить заказ в телеграм** [https://thaihookahfaq.ru/#manager](https://thaihookahfaq.ru/#manager)

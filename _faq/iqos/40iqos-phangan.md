@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: iqos-phangan
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/iqos/](https://hqdthai.ru/iqos/) <- Цены, наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} с Тонгсала **с оплатой наличными при получении** со склада Пангана [https://iqos-hqd-phangan.ru/IQOS](https://iqos-hqd-phangan.ru/IQOS)

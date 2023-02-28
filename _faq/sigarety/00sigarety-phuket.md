@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: sigarety-phuket
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/sigarety/](https://hqdthai.ru/sigarety/) <- Цены, наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} на Паттонге **с оплатой наличными при получении** со склада Пхукета [ https://hqdphuket.ru/sigarety ](https://hqdphuket.ru/sigarety)<- Цены, наличие и оформление заказа.

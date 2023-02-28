@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: snus-phangan
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/snyus/](https://hqdthai.ru/snyus/) <- Цены, наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} с Тонгсала **с оплатой наличными при получении** со склада Пангана [https://iqos-hqd-phangan.ru/SNUS](https://iqos-hqd-phangan.ru/SNUS)<- Цены, наличие и оформление заказа.

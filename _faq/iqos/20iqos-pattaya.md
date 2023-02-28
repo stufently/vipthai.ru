@@ -4,6 +4,8 @@ ldjson: ye
 hashtag: iqos-pattaya
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/iqos/](https://hqdthai.ru/iqos/) <- Цены, наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} с Пратамнак **с оплатой наличными при получении** склада Паттаи [https://hqd-iqos-pattaya.ru/iqos](https://hqd-iqos-pattaya.ru/iqos)<- Цены, наличие и оформление заказа.

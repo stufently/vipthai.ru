@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: snus-samui
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/snyus/](https://hqdthai.ru/snyus/) <- Цены, наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} с Ламаи **с оплатой наличными при получении** склада Самуи [https://hqdsamui.ru/snus/](https://hqdsamui.ru/snus/)<- Цены, наличие и оформление заказа.

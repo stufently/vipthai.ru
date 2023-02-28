@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: iqos-samui
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/iqos/](https://hqdthai.ru/iqos/) <- Цены и наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} с Ламай **с оплатой наличными при получении** со склада Самуи [https://hqdsamui.ru/iqos/](https://hqdsamui.ru/iqos/)<- Цены, наличие и оформление заказа.

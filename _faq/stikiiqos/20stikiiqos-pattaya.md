@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: stikiiqos-pattaya
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/stiki/](https://hqdthai.ru/stiki/) <- Цены и наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} с Прамтак **с оплатой наличными при получении** со склада Паттаи [https://hqd-iqos-pattaya.ru/stikiqos](https://hqd-iqos-pattaya.ru/stikiqos)<- Цены, наличие и оформление заказа.

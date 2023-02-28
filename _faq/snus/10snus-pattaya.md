@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: snus-pattaya
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/snyus/](https://hqdthai.ru/snyus/) <- Цены, наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} сПратамнак **с оплатой наличными при получении** склад в Паттайе [https://hqd-iqos-pattaya.ru/snus](https://hqd-iqos-pattaya.ru/snus)<- Цены, наличие и оформление заказа.

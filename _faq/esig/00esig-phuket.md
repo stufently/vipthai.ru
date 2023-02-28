@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: esig-phuket
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/elektronki/](https://hqdthai.ru/elektronki/) <- Цены и наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} на Пхукете **с оплатой наличными при получении** со склада Пхукета [https://hqdphuket.ru/Elektronki](https://hqdphuket.ru/Elektronki)<- Цены, наличие и оформление заказа.

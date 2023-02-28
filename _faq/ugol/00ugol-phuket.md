@@ -4,6 +4,8 @@ ldjson: yes
 hashtag: ugol-phuket
 ---
 
+{{ site.data.common.info_delivery_3 }}
+
 {{ site.data.common.info_delivery_1 }} [https://hqdthai.ru/kalyan/ugolkalyan/](https://hqdthai.ru/kalyan/ugolkalyan/) <- Цены, наличие и оформление заказа.
 
 {{ site.data.common.info_delivery_2 }} на Паттонге **с оплатой наличными при получении** со склада Пхукета [https://hqdphuket.ru/kalyan/ugolkalyan](https://hqdphuket.ru/kalyan/ugolkalyan)<- Цены, наличие и оформление заказа.
